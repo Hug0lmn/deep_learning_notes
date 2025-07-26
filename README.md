@@ -1,11 +1,12 @@
 ## 🎯 Objectif
 
-En tant que data scientist, je souhaite me spécialiser dans le domaine des LLMs et du Deep Learning pour :
+En tant que data scientist, durant ma deuxième année de Master, j'ai suivi un enseignement sur le DL me permettant d'apprendre de nombreux éléments de cette spécialité. 
+Je souhaite toutefois me spécialiser dans le domaine des LLMs et du Deep Learning pour :
 
 - Comprendre ou réappendre les fondements théoriques des modèles modernes (BERT, GPT, Transformers…)  
 - Apprendre à manipuler ces modèles via des outils comme Hugging Face  
 - Construire des projets concrets et orientés production  
-- Partager mes notes, ressources et expériences au fur et à mesure dema progression
+- Partager mes notes, ressources et expériences au fur et à mesure de ma progression
 
 ---
 
